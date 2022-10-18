@@ -1,6 +1,6 @@
 Página web personal 💻
 En este proyecto voy realizando mi propia página web personal y profesional con distintas tecnologías que uso en clase para mostrar un poco de lo que hago en mi día a día.
-Trabajo adquirido de Jose Luis (github.com/joseluisgs
+Trabajo adquirido de Jose Luis (github.com/joseluisgs)
 
 Despliegue en
 GitHub Pages: https://carlospema.github.io/
